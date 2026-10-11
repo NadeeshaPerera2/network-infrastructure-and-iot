@@ -155,5 +155,4 @@ Open the file using Cisco Packet Tracer to explore the network topology, configu
 
 ##  Project Objective
 
-The main objective of this project was to move beyond theoretical learning and apply networking and IoT concepts through practical network design, configuration, troubleshooting, and validation.
-
+The main objective of this project was to move beyond theoretical learning and apply networking and IoT concepts through practical network design, configuration, troubleshooting, testing, and validation.
