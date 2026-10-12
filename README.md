@@ -6,7 +6,7 @@ A practical Cisco Packet Tracer network infrastructure project demonstrating VLA
 
 This project was developed to apply networking and IoT concepts in a practical Cisco Packet Tracer environment.
 
-The project focuses on designing, configuring, testing, and troubleshooting a structured network containing separate user, server, and NOC segments, together with a basic Smart Office IoT implementation.
+The project focuses on designing, configuring, testing, and troubleshooting a structured network containing separate user, server, and NOC segments, together with a  Smart Office IoT implementation.
 
 ##  Network Architecture
 
